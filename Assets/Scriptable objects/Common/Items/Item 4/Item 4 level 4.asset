@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835bdd6230c94d245942de696b757af0, type: 3}
+  m_Name: Item 4 level 4
+  m_EditorClassIdentifier: 
+  Name: Item 4
+  Level: 4
+  ItemPack: {fileID: 11400000, guid: debe78934fb7509428d630da5dd07232, type: 2}
+  Sprite: {fileID: 21300000, guid: f46f9880e6f9891499621616615722eb, type: 3}
